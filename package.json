@@ -1,0 +1,22 @@
+{
+  "name": "mean-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string-manipulation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mckenziesue2@github.com/mckenziesue2/mean-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckenziesue2/mean-exercises/issues"
+  },
+  "homepage": "https://github.com/mckenziesue2/mean-exercises",
+  "dependencies": {
+    "readline-sync": "^0.8.0"
+  }
+}
