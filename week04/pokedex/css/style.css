@@ -1,0 +1,43 @@
+body {
+    background-color:#f2f2f2 !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+.title {
+    margin-top: 2em;
+    max-height: 7em;
+}
+
+.pokemon-area {
+    padding-top: 20px;
+}
+
+.pokemon-pic {
+    height: 10em;
+    position: center;
+}
+
+.data-area {
+    height: 10em;
+}
+
+
+#pokemon-list {
+    height: 280px;
+    overflow: auto;
+}
+
+.white-bkgd {
+    background-color:white;
+    padding:20px;
+    height:300px;
+}
+
+.col-lg-4 {
+    padding-right:50px !important;
+}

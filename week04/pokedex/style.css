@@ -1,0 +1,39 @@
+body {
+	background-color:#f2f2f2 !important;
+	/*background-image: url('../img/pikachu.jpg');*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+.title {
+	margin-top: 2em;
+	max-height: 7em;
+}
+
+.pokemon-area {
+    padding-top: 20px;
+}
+
+.pokemon-pic {
+    height: 10em;
+    position: center;
+}
+
+.data-area {
+    height: 10em;
+}
+
+
+#pokemon-list {
+    height: 150px;
+    overflow: auto;
+}
+
+.white-bkgd {
+	background-color:white;
+	padding:20px;
+}
